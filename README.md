@@ -4,4 +4,4 @@ If you want to export markdown data from Joplin and import to Trilium, the image
 So just run this script, will trun the markdown image from link to Base64.
 
 # Note
-Please change the folder location before you run.
+Please change the folder location at basePath before you run.
